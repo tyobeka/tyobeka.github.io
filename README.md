@@ -1,1 +1,7 @@
-# tyobeka.github.io
+# Data Scientist
+
+### Education 
+Statistical Sciences, Masters
+
+### Work Experience
+Blah blah
