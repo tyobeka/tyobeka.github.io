@@ -384,8 +384,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-be-attending-the-hundzula-natural-language-processing-and-linguistics-retreat-4th-edition",
-          title: 'I will be attending the Hundzula: Natural Language Processing and Linguistics Retreat (4th...',
+            },},{id: "news-i-will-be-presenting-a-poster-at-deep-learning-indaba-2024-taking-place-in-dakar-senegal",
+          title: 'I will be presenting a poster at Deep Learning Indaba 2024 taking place...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-giving-a-presentation-at-the-hundzula-natural-language-processing-and-linguistics-retreat-4th-edition",
+          title: 'I will be giving a presentation at the Hundzula: Natural Language Processing and...',
           description: "",
           section: "News",},{id: "news-i-have-been-selected-to-attend-deep-learning-indaba-2025-taking-place-in-kigali-rwanda-sparkles-smile",
           title: 'I have been selected to attend Deep Learning Indaba 2025 taking place in...',
