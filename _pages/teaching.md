@@ -35,7 +35,7 @@ nav_order: 6
 ---
 #### Tutoring 
 
-<a href="https://science.uct.ac.za/department-statistics">Department of Statistical Sciences</a>, University of Cape Town, July 2018 -- December 2022
+<a href="https://science.uct.ac.za/department-statistics">Department of Statistical Sciences</a>, University of Cape Town, July 2018 -- February 2022
 <ul>
     <li><b>Theory of Statistics</b></li>
     <li><b>Inferential Statistics</b></li>
