@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-presentations-amp-teaching",
+  },{id: "nav-news",
+          title: "news",
+          description: "what have I been up to?",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "nav-presentations-amp-teaching",
           title: "presentations &amp; teaching",
           description: "A collection of talks and posters that I&#39;ve presented, as well as courses that I have been involved in.",
           section: "Navigation",
@@ -393,8 +400,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-been-selected-to-attend-deep-learning-indaba-2025-taking-place-in-kigali-rwanda-sparkles-smile",
           title: 'I have been selected to attend Deep Learning Indaba 2025 taking place in...',
           description: "",
-          section: "News",},{id: "news-analysing-company-layoffs-in-the-technology-sector-using-sql",
-          title: 'Analysing Company Layoffs in the Technology Sector using SQL',
+          section: "News",},{id: "news-data-science-for-heath-in-africa-seminars",
+          title: 'Data Science for Heath in Africa Seminars',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
