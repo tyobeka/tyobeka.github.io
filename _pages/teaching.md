@@ -4,7 +4,7 @@ permalink: /presentations_and_teaching/
 title: presentations & teaching
 description: A collection of talks and posters that I've presented, as well as courses that I have been involved in.
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 #### Research
 
