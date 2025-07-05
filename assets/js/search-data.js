@@ -18,17 +18,17 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of projects that I&#39;ve worked on.",
+          description: "a growing collection of projects that I&#39;ve worked on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-presentations-amp-teaching",
-          title: "presentations &amp; teaching",
-          description: "A collection of talks and posters that I&#39;ve presented, as well as courses that I have been involved in.",
+        },{id: "nav-presentations",
+          title: "presentations",
+          description: "a collection of talks and posters that I&#39;ve presented, as well as courses that I have been involved in.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/presentations_and_teaching/";
+            window.location.href = "/presentations/";
           },
         },{id: "post-a-post-with-plotly-js",
         
