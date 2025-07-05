@@ -27,10 +27,10 @@ latest_posts:
 
 Hi, I'm **Manala** and I'm a statistician.
 
-I hold a BSc in Mathematics and Applied Statistics, and a BSc Honours in Statistics and Data Science (formerly Statistical Sciences), both from the [University of Cape Town](https://science.uct.ac.za/department-statistics) (UCT). I have also completed the coursework for an MSc in Statistics and Data Science (formerly Advanced Analytics), at UCT. The results for my dissertation are still pending.
+I completed the coursework and submitted a dissertation for an MSc in Advanced Analytics (now called Statistics and Data Science) at the [University of Cape Town](https://science.uct.ac.za/department-statistics) (UCT). My dissertation is currently under examination. Prior to that, I completed a BSc in Mathematics and Applied Statistics, as well as a BSc (Honours) in Statistical Sciences (now called Statistics and Data Science), also at UCT.
 
-My current research explores **data-driven text representation strategies for low-resource South African languages**, with the aim of optimising Transformer-based models that are trained to translate text from English to these low-resource languages.
+My current research explores various **data-driven text representation strategies for low-resource South African languages** with the goal of optimising Transformer-based models for the translation of text from English to these low-resource languages.
 
-But my curiosity does not stop there---if there is data that needs to be cleaned, transformed, modelled, or simply understood, then I’m all in. I love finding patterns in chaos, translating burning questions into meaningful insights.
+However, my curiosity does not stop there: if there is data that needs to be cleaned, modelled or simply understood, then I’m all in. I love finding patterns in chaos, and translating burning questions into meaningful insights.
 
 Feel free to reach out to me via [email](mailto:tyobeka.mandisa@gmail.com?subject=Follow-up%20from%20your%20Personal%20Website). I would be happy to hear from you!
