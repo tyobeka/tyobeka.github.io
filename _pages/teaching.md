@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /presentations_and_teaching/
-title: presentations & teaching
-description: A collection of talks and posters that I've presented, as well as courses that I have been involved in.
+permalink: /presentations/
+title: presentations
+description: a collection of talks and posters that I've presented, as well as courses that I have been involved in.
 nav: true
 nav_order: 4
 ---
