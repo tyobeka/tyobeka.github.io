@@ -417,6 +417,11 @@ ninja.data = [{
           description: "Using agent-based modelling to simulate and analyse a complex system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-observing-the-effectiveness-of-safe-burial-practices-for-reducing-the-spread-of-the-ebola-virus-using-mathematical-modelling-techniques",
+          title: 'Observing the effectiveness of safe burial practices for reducing the spread of the...',
+          description: "Mathematically modelling the spread of an infectious disease",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
