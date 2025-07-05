@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-news",
-          title: "news",
-          description: "what have I been up to?",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "a growing collection of projects that I&#39;ve worked on.",
           section: "Navigation",
@@ -29,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/presentations/";
+          },
+        },{id: "nav-news",
+          title: "news",
+          description: "what have I been up to?",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
           },
         },{id: "post-a-post-with-plotly-js",
         
