@@ -422,6 +422,11 @@ ninja.data = [{
           description: "Mathematically modelling the spread of an infectious disease",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-tuning-meta-llms-for-african-language-machine-translation",
+          title: 'Tuning Meta LLMs for African Language Machine Translation',
+          description: "Can you translate English to Twi using Meta LLM?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
