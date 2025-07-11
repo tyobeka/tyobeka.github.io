@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Science for Heath in Africa Seminars
+title: Data Science for Health in Africa Seminars
 date: 2025-07-01 00:00:00-0400
 inline: false
 related_posts: false
