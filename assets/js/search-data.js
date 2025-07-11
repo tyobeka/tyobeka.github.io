@@ -407,8 +407,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-been-selected-to-attend-deep-learning-indaba-2025-taking-place-in-kigali-rwanda-sparkles-smile",
           title: 'I have been selected to attend Deep Learning Indaba 2025 taking place in...',
           description: "",
-          section: "News",},{id: "news-data-science-for-heath-in-africa-seminars",
-          title: 'Data Science for Heath in Africa Seminars',
+          section: "News",},{id: "news-data-science-for-health-in-africa-seminars",
+          title: 'Data Science for Health in Africa Seminars',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
