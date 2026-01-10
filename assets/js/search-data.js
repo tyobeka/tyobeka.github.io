@@ -412,7 +412,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "projects-are-speed-cameras-an-effective-measure-to-change-road-users-risky-behaviour",
+            },},{id: "news-i-have-been-awarded-a-degree-of-master-in-science-in-advanced-analytics-with-distinction-in-the-dissertation-and-will-be-eligible-to-graduate-in-the-autumn-2026-graduation-session",
+          title: 'I have been awarded a degree of Master in Science in Advanced Analytics...',
+          description: "",
+          section: "News",},{id: "projects-are-speed-cameras-an-effective-measure-to-change-road-users-risky-behaviour",
           title: 'Are speed cameras an effective measure to change road users’ risky behaviour?',
           description: "Using agent-based modelling to simulate and analyse a complex system",
           section: "Projects",handler: () => {
