@@ -27,9 +27,9 @@ latest_posts:
 
 Hi, I'm **Manala** and I'm a statistician.
 
-I completed the coursework and submitted a dissertation for an MSc in Advanced Analytics (now called Statistics and Data Science) at the [University of Cape Town](https://science.uct.ac.za/department-statistics) (UCT). My dissertation is currently under examination. Prior to that, I completed a BSc in Mathematics and Applied Statistics, as well as a BSc (Honours) in Statistical Sciences (now called Statistics and Data Science), also at UCT.
+I recently completed an MSc in Advanced Analytics (now called Statistics and Data Science) at the [University of Cape Town](https://science.uct.ac.za/department-statistics) (UCT). Prior to that, I completed a BSc in Mathematics and Applied Statistics, as well as a BSc (Honours) in Statistical Sciences (now called Statistics and Data Science), also at UCT.
 
-My current research explores various **data-driven text representation strategies for low-resource South African languages** with the goal of optimising Transformer-based models for the translation of text from English to these low-resource languages.
+My MSc research explored various **data-driven text representation strategies for low-resource South African languages** with the goal of optimising Transformer-based models for the translation of text from English to these low-resource languages.
 
 However, my curiosity does not stop there: if there is data that needs to be cleaned, modelled or simply understood, then I’m all in. I love finding patterns in chaos, and translating burning questions into meaningful insights.
 
